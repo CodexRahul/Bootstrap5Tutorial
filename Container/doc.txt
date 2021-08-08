@@ -1,0 +1,14 @@
+[BOOTSTRAP 5]
+
+CONTAINER- .container, .container-fluid
+
+Breakpoint	          Size         Class infix	       Dimensions
+
+X-Small	              100%              None	       <576px = 575px to Smaller
+Small	              540px              sm	           ≥576px = 767px to 576px
+Medium	              720px              md	           ≥768px = 991px to 768px
+Large	              960px              lg	           ≥992px = 1199px to 992px
+Extra large	          1140px             xl	           ≥1200px = 1399px to 1200px
+Extra extra large	  1320px            xxl	           ≥1400px = 1400px to Higher
+
+
